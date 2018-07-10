@@ -60,7 +60,7 @@ function getAllNode(pointArray){
     let arr = [];
     //divide越大，曲线越平滑
     const divide = 500;
-    for(let t=0;t<1; t+=1/divide){
+    for(let t=0;t<=1; t+=1/divide){
         let obj ={
             x: 0,
             y: 0
