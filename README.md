@@ -9,4 +9,4 @@
    1.  [生产环境 webpack 最基础的配置](https://github.com/shirleyMHao/blog/issues/3)
    2.  [webpack如何extract多个css](https://github.com/shirleyMHao/blog/issues/5)
 ## 基础
-   1. [你真的了解cubic_bezier么？](https://github.com/shirleyMHao/blog/issues/4)
+   1. [你真的了解cubic_bezier吗？](https://github.com/shirleyMHao/blog/issues/4)
